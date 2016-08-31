@@ -3,7 +3,7 @@ sudo: false
 node_js:
 - 'stable'
 install:
-- npm install -ddd
+- npm install -dd
 script: true
 deploy:
   provider: npm
