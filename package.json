@@ -14,7 +14,7 @@
     "babel-preset-flow": "1.0.0",
     "babel-register": "6.11.6",
     "flow-bin": "0.30.0",
-    "flow-copy-source": "git@github.com:cotsog/flow-copy-source.git",
+    "flow-copy-source": "git://github.com/cotsog/flow-copy-source.git",
     "standard-flow": "1.0.0",
     "tape": "4.4.0"
   },
