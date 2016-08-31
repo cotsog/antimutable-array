@@ -14,7 +14,6 @@
     "babel-preset-flow": "1.0.0",
     "babel-register": "6.11.6",
     "flow-bin": "0.30.0",
-    "flow-copy-source": "1.1.0",
     "standard-flow": "1.0.0",
     "tape": "4.4.0"
   },
